@@ -4,6 +4,7 @@
 
 int main()   
 {
+Creating a new branch is quick AND simple.
 	//TripleDES
 	//明文
     char * plain = "2022150016_plain.docx";
