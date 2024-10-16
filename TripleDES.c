@@ -2,7 +2,7 @@
 
 //字节转换成二进制
 //2022150016_huanghaojia
-int ByteToBit(ElemType ch, ElemType bit[8]){   
+int btob(ElemType ch, ElemType bit[8]){   
     int cnt;   
     for(cnt = 0;cnt < 8; cnt++){   
         *(bit+cnt) = (ch>>cnt)&1;   
