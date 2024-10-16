@@ -6,11 +6,11 @@ int main()
 {
 	//TripleDES
 	//明文
-    char * plain = "2022150016_plain.jpg";
+    char * plain = "2022150016_plain.docx";
 	//解密文
-    char * decrypted = "2022150016_decrypted.jpg";
+    char * decrypted = "2022150016_decrypted.docx";
 	//密文
-    char * cipher = "2022150016_cipher.jpg";
+    char * cipher = "2022150016_cipher.docx";
 	//密钥
     char *key = "2022150016_key.txt"; 
 
