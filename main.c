@@ -4,7 +4,11 @@
 
 int main()   
 {
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
 	//TripleDES
 	//明文
     char * plain = "2022150016_plain.docx";
