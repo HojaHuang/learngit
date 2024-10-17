@@ -4,6 +4,7 @@
 
 int main()   
 {
+	Another cpmputer add 
 	//TripleDES
 	//明文
     char * plain = "2022150016_plain.docx";
